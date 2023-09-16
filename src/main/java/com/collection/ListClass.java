@@ -16,7 +16,9 @@ public class ListClass {
         list3.add(5);
 
         Integer contains = list1.get(1);
+        Integer contains1 = list1.get(2);
         System.out.println(contains);
+        System.out.println(contains1);
 
         System.out.println(list1);
         System.out.println(list3);
